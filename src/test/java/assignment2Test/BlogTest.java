@@ -124,7 +124,7 @@ public class BlogTest {
 
         assertEquals(1, mousamPosts.size());
         assertEquals(1, robinPosts.size());
-        assertEquals("Test post 1", mousamPosts.get(0));
-        assertEquals("Test post 2", robinPosts.get(0));
+        assertEquals("p1", mousamPosts.get(0));
+        assertEquals("p2", robinPosts.get(0));
     }
 }
