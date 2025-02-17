@@ -1,0 +1,22 @@
+[
+  {
+    "id": "p1",
+    "authorId": "1",
+    "postContent": "Mousam's first post. I dive into universe"
+  },
+  {
+    "id": "p2",
+    "authorId": "4",
+    "postContent": "The Bro Code. Passed down from generations of bros"
+  },
+  {
+    "id": "p3",
+    "authorId": "3",
+    "postContent": "How I met your father. A story of love and friendship"
+  },
+  {
+    "id": "p4",
+    "authorId": "3",
+    "postContent": "Why not to date Barney Stinson"
+  }
+]

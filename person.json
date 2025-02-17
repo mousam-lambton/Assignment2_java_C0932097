@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "firstName": "Mousam",
+    "lastName": "Dhakal",
+    "age": 25,
+    "gender": "male"
+  },
+  {
+    "id": "2",
+    "firstName": "Ram",
+    "lastName": "Thapa",
+    "age": 27,
+    "gender": "male"
+  },
+  {
+    "id": "3",
+    "firstName": "Robin",
+    "lastName": "Schebarsky",
+    "age": 30,
+    "gender": "female"
+  },
+  {
+    "id": "4",
+    "firstName": "Barney",
+    "lastName": "Stinson",
+    "age": 25,
+    "gender": "male"
+  }
+]
